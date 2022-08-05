@@ -1,2 +1,2 @@
-# CS410Assignment3
+Simple Java Notepad
 A simple java notepad
